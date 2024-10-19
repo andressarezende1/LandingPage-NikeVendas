@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Quicksand:wght@300..700&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+.sessao01, .sessao02, .sessao03 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: static;
+    height: 80%;
+    background-color: #F0F8FF;
+    padding: 20px;
+    gap: 20px;
+ 
+}
+
+.container {
+    
+    display: flex; /* Usando flexbox para alinhar as imagens lado a lado */
+    justify-content: center; /* Espaçamento entre as imagens */
+    align-items: center;
+    border-radius: 10px; /* (opcional) Arredonda os cantos da div */
+    width: 50vw;
+}
+
+.imagem01 {
+    width: 50vw; 
+    height: 400px;       
+    background-image: url('https://acdn.mitiendanube.com/stores/002/068/985/products/b32b8445-c0d8-478f-968b-dcdb5e7893281-07a30749360c9da01516939454445479-640-0.jpeg');
+    background-size: contain; 
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0; 
+}
+
+.textos {
+    display: flex;              
+    justify-content: center;   
+    flex-direction: column; 
+    align-items: center;    
+    gap: 50px;
+    width: 50vw;
+    height: 80%;
+    background-color: #F0F8FF;
+}
+
+.titulo {
+    color: #00797D;
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-Size: 40px;
+}
+
+.subtitulo {
+    color: #124253;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-Size: '20px';
+    font-Weight: bold;
+}
+.button {
+    background-color: #487881;
+    border-radius: 20px;
+    padding: 20px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+
+.quadrados {
+    display: flex; /* Habilita o flexbox para a lista de quadrados */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    gap: 20px;
+}
+
+.q1, .q2, .q3 {
+    display: flex; /* Habilita o flexbox para cada quadrado */
+    flex-direction: column; /* Coloca o texto em coluna */
+    justify-content: center; /* Centraliza verticalmente */
+    align-items: center; /* Centraliza horizontalmente */
+    gap: 10px;
+    height: 130px;
+    width: 350px;
+    background-color: white;
+    border: #124253 3px solid;
+    text-align: center; /* Alinhamento central para texto */
+    
+}
+
+.imagem02 {
+    width: 25vw; 
+    height: 450px;       
+    background-size: contain; 
+    background-position: center;
+    background-repeat: no-repeat;
+    box-sizing: border-box; 
+}
+
+
+.imagem02:nth-child(1) {
+    background-image: url('https://cdn.awsli.com.br/800x800/1203/1203218/produto/265201890/whatsapp-image-2024-04-29-at-17-55-05--3--tp8rah59b8.jpeg');
+}
+
+.imagem02:nth-child(2) {
+    background-image: url('https://cdn.awsli.com.br/2708/2708425/produto/257470771/09e4be5e-f362-48cf-b4b2-3243f7145a2b-p714r6yiu3.jfif'); /* Substitua pela URL da segunda imagem */
+}
+
+.form {
+    background-color: #00797D;
+    padding: 25px 25px;
+    border-radius: 20px;
+    width: 50vw;
+}
+
+form {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: left ;
+    padding-left: 15px ;
+    gap: 10px;
+}
+
+form label {
+    color: white;
+    font-size: 20px;
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+form input[type="text"],
+form input[type="email"] {
+    background-color: #9fdcdf;
+    border: none;
+    border-radius: 20px;
+    height: 30px; /* Altura ajustada */
+    width: 90%; /* Largura ajustada */
+    padding: 5px; /* Adiciona espaçamento interno */
+    font-size: 16px; /* Tamanho da fonte */
+}
+
+.checkbox {
+    width: 20px; /* Tamanho do checkbox */
+    height: 20px; /* Tamanho do checkbox */
+
+}
+button {
+    background-color: #005f5f; /* Cor do botão */
+    color: white; /* Cor do texto do botão */
+    border: none;
+    border-radius: 10px;
+    padding: 15px 25px; /* Tamanho do botão */
+    cursor: pointer; /* Cursor em forma de mão */
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-Size: '20px';
+    
+}
+
+button:hover {
+    background-color: #043d3f; /* Cor ao passar o mouse */
+}
+
+
+@media (max-width: 768px) {
+    .sessao01, .sessao02, .sessao03 {
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+    }
+
+    .imagem01, .imagem02 {
+        width: 60vw; /* Largura maior em telas menores */
+        max-height: 350px; /* Limita a altura */
+    }
+
+    .container {
+        flex-direction: column;
+    }
+   
+    .titulo {
+        font-size: 30px;
+    }
+
+    .subtitulo {
+        font-size: 18px;
+    }
+
+    .button {
+        font-size: 20px;
+    }
+
+    form input[type="text"],
+    form input[type="email"] {     
+        height: 15px; /* Altura ajustada */    
+}
+
+form label {
+    color: white;
+    font-size: 15px;
+}
+}
