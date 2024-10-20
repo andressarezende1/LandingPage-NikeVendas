@@ -64,7 +64,7 @@ function Container() {
                     </div> <br></br>
                     <label>
                         <input type="checkbox" name="opcao1" value="opcao1" className="checkbox-input" />
-                        <p>Aceito receber novidades pelo email cadastrado</p>
+                        <p className='p'>Aceito receber novidades pelo email cadastrado</p>
                     </label>
                     <div> 
                         <button onClick={clicou} type="submit">Enviar</button>

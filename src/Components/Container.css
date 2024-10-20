@@ -28,7 +28,7 @@ html {
 .imagem01 {
     width: 50vw; 
     height: 400px;       
-    background-image: url('https://acdn.mitiendanube.com/stores/002/068/985/products/b32b8445-c0d8-478f-968b-dcdb5e7893281-07a30749360c9da01516939454445479-640-0.jpeg');
+    background-image: url('https://cdn.awsli.com.br/800x800/1203/1203218/produto/265195244/whatsapp-image-2024-04-25-at-15-34-37-cs1y7942du.jpeg');
     background-size: contain; 
     background-position: center;
     background-repeat: no-repeat;
@@ -63,6 +63,14 @@ html {
     font-style: normal;
     font-Size: '20px';
     font-Weight: bold;
+}
+
+.p {
+    color: white;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-Size: '20px';
 }
 .button {
     background-color: #487881;
