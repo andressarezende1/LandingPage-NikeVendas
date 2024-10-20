@@ -45,8 +45,6 @@
 </div>
 
 ##
-    
-##
 
 <h3>Biblioteca utilizada:</h3>
 <div>
