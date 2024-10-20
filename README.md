@@ -49,7 +49,7 @@
 <h3>Biblioteca utilizada:</h3>
 <div>
   <a href="https://react-icons.github.io/react-icons/">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg">
+    <img align="center" alt="Rafa-React" height="30" width="30" src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg">
 </a>
 
 </div>
