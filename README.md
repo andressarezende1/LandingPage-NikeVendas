@@ -24,15 +24,6 @@
 - A importância da criação do protótipo para o desenvovimento eficaz e ágil
 - Noções de layout de aplicações Web e Mobile
 ##
-<h3>Tecnologias utilizadas:</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
-##
 
 <h3>Ferramentas utilizadas:</h3>
 <div>
@@ -42,6 +33,18 @@
   <a href="https://figma.com">
     <img align="center" alt="Rafa-React" height="30" width="37" src="https://cdn.iconscout.com/icon/free/png-256/free-figma-10516008-8630394.png?f=webp">
 </div>
+
+##
+
+<h3>Tecnologias utilizadas:</h3>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+##
     
 ##
 
