@@ -1,28 +1,45 @@
 <h1>Olá pessoal, apresento a vocês a <b>minha primeira landing page de um produto à venda responsiva </b>😉 </h1>
 
-<h3>Sobre o desenvolvimento </h3>
-  O primeiro passo que realizei foi criar o <b>protótipo ✏️ </b> tanto para aplicações Web quanto Mobile no <a href="https://www.figma.com/design/JAUp8l2pS6fgrGVPKhF8JO/Nike-Vendas--Landing-Page?node-id=0-53&t=erlU18dz2IvmEIIm-1">Figma</a> (acesse para visualizar). Para isso, foi necessário <b>refletir sobre a estrutura e elementos chamativos 💭 </b>, considerando o produto a ser oferecido, a paleta de cores, as palavras e frases impactantes, do mecanismo de comunicação de compra e a estrutura para Web e Mobile. No final, o produto oferecido foi <b>um tênis azul bebê da Nike, as frases atrativas, quais benefícios estéticos e funcionais destacar e um formulário </b> para contato com a equipe de vendas. <br><br>
+Esta landing page foi criada para apresentar um tênis da Nike à venda, com o objetivo de captar contatos de potenciais compradores e fornecer informações claras sobre o produto.
 
-  Após esse passo decisivo e útil, comecei o <b> desenvolvimento da landing page 👩‍💻 </b>, que foi um processo ágil, já que o protótipo estava pronto. Que foi <b>preciso de 4 dias 🗓️ </b>, já que tirei um tempinho do meu dia para me dedicar a esse projeto.
-
-<h3> Sobre o projeto </h3>
-  Esta landing page <b>apresenta o produto à venda </b>, com textos curtos e chamativos, imagens do produto e um formulário de contato com a equipe para realizar a compra. <br><br>
-
-  Ela é dividida em <b>três seções </b>, a de <b>apresentação inicial</b> contendo um título, subtítulo e uma imagem do tênis, na proxíma seção destaca os <b>benefícios estéticos e funcionais e outras imagems mostrando mais o tênis </b>, e por último, a terceira seção contém uma <b>frase atrativa e um formulário </b>para contato com a equipe. <br><br>
-
-  Tendo a estrutura e organização coerente para aplicações Web e Mobile. <br><br>
-
-  Se alguém tiver alguma sugestão de melhorias ou alguma dúvida relacionado a essa landing page, ficarei muito feliz em conversar sobre 🥰 . Me mande mensagem no Email ou no Linkedin.
 ##
 
+<h3> Desenvolvimento </h3>
+  O primeiro passo que realizei foi criar o <b>protótipo ✏️ </b> tanto para aplicações Web quanto Mobile no <a href="https://www.figma.com/design/JAUp8l2pS6fgrGVPKhF8JO/Nike-Vendas--Landing-Page?node-id=0-53&t=erlU18dz2IvmEIIm-1">Figma</a> (acesse para visualizar). Para isso, foi necessário refletir sobre a estrutura e elementos chamativos 💭, considerando o produto, a paleta de cores e as frases impactantes.
+
+Após essa etapa, comecei o desenvolvimento da landing page 👩‍💻, que foi ágil, pois o protótipo estava pronto. Esse processo levou apenas 4 dias 🗓️, já que me dediquei a ele durante o dia.
+
+##
+
+<h3> Estrutura do projeto 📂 </h3>
+
+  Ela é divida em 3 seções:
+
+<br>1️⃣ Apresentação do produto: Título, subtítulo e imagem do tênis.
+<br>2️⃣ Destaque para benefícios: Seção que ressalta as qualidades estéticas e funcionais do produto.
+,br>3️⃣ Formulário de contato: Permite que os usuários se conectem com a equipe de vendas.
+
+##
+
+<h3>Design e Layout 📃</h3>
+
+O design da landing page foi pensado para ser atrativo e funcional. Utilize uma paleta de cores harmoniosa, com tons de rosa e azul, e uma tipografia clara e legível. O layout é responsivo, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
+
+##
+
+  Se alguém tiver alguma sugestão de melhorias ou alguma dúvida relacionado a essa landing page, ficarei muito feliz em conversar sobre 🥰 . Me mande mensagem no Email ou no Linkedin.
+
+ ##
+ 
 <h3>Nesse pequeno projeto aprendi sobre: </h3>
 
-- Utilização da ferramenta Figma para a crição de protótipos
-- Organização e estilização de formulários com o framework React
-- Propriedades e seus complementos de css (display flex)
-- Pensamento sobre a estética da página
-- A importância da criação do protótipo para o desenvovimento eficaz e ágil
-- Noções de layout de aplicações Web e Mobile
+ <br>📌 Utilização da ferramenta Figma para a crição de protótipos
+ <br>📌 Organização e estilização de formulários com o framework React
+ <br>📌 Propriedades e seus complementos de css (display flex)
+ <br>📌 Pensamento sobre a estética da página
+ <br>📌 A importância da criação do protótipo para o desenvovimento eficaz e ágil
+ <br>📌 Noções de layout de aplicações Web e Mobile
+ 
 ##
 
 <h3>Ferramentas utilizadas:</h3>
@@ -50,6 +67,10 @@
 <div>
   <a href="https://react-icons.github.io/react-icons/">
     <img align="center" alt="Rafa-React" height="30" width="30" src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg">
+</a>
+
+<a href="https://fonts.google.com/">
+    <img align="center" alt="Rafa-React" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUP5DizHClmiEANb7443enra5h_mzpCzC_tQ&s">
 </a>
 
 </div>
