@@ -17,7 +17,7 @@ Após essa etapa, comecei o desenvolvimento da landing page 👩‍💻, que foi
 
 <br>1️⃣ Apresentação do produto: Título, subtítulo e imagem do tênis.
 <br>2️⃣ Destaque para benefícios: Seção que ressalta as qualidades estéticas e funcionais do produto.
-,br>3️⃣ Formulário de contato: Permite que os usuários se conectem com a equipe de vendas.
+<br>3️⃣ Formulário de contato: Permite que os usuários se conectem com a equipe de vendas.
 
 ##
 
