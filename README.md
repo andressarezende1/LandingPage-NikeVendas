@@ -1,6 +1,6 @@
 <h1>Olá pessoal, apresento a vocês a <b>minha primeira landing page de um produto à venda responsiva </b>😉 </h1>
 
-Esta landing page foi criada para apresentar um tênis da Nike à venda, com o objetivo de captar contatos de potenciais compradores e fornecer informações claras sobre o produto.
+Esta landing page foi criada para apresentar um tênis a venda, com o objetivo de captar contatos de potenciais compradores e fornecer informações claras sobre o produto.
 
 ##
 
@@ -24,10 +24,6 @@ Após essa etapa, comecei o desenvolvimento da landing page 👩‍💻, que foi
 <h3>Design e Layout 📃</h3>
 
 O design da landing page foi pensado para ser atrativo e funcional. Utilize uma paleta de cores harmoniosa, com tons de rosa e azul, e uma tipografia clara e legível. O layout é responsivo, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
-
-##
-
-  Se alguém tiver alguma sugestão de melhorias ou alguma dúvida relacionado a essa landing page, ficarei muito feliz em conversar sobre 🥰 . Me mande mensagem no Email ou no Linkedin.
 
  ##
  
