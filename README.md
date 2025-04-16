@@ -1,4 +1,4 @@
-<h1>Olá pessoal, apresento a vocês a <b> ✨ minha primeira landing page de um produto à venda responsiva ✨ </b> </h1>
+<h1>Olá pessoal, apresento a vocês a <b> minha primeira ✨Landing Page Responsiva✨ </b> </h1>
 
 Esta landing page foi criada para apresentar um tênis a venda, com o objetivo de captar contatos de potenciais compradores e fornecer informações claras sobre o produto.
 
